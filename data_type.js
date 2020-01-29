@@ -3,8 +3,8 @@ console.log('Understanding var')
 var name; //variable declaration
 name= 'Ijay Abby'; //variable assignment of type 'String'
 console.log (name);
-name='Tall Burger';
-console.log (name);
+//name='Tall Burger';
+//console.log (name);
 console.log('Understanding let')
 let fruit;
 fruit='Mango';
